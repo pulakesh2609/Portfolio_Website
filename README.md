@@ -47,7 +47,6 @@ A modern, responsive personal portfolio website built with React and Tailwind CS
 ## 🖼️ Screenshots
 
 ### Desktop View
-![Hero and Navbar](./screenshots/hero.png)
 ![About and Skills](./screenshots/about-skills.png)
 ![Projects](./screenshots/projects.png)
 ![Contact](./screenshots/contact.png)
