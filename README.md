@@ -2,7 +2,6 @@
 
 A modern, responsive personal portfolio website built with React and Tailwind CSS, featuring stunning animations, dark mode aesthetics, and a clean single-file architecture.
 
-![Portfolio Hero Section](./screenshots/hero.png)
 
 ## ✨ Features
 
@@ -165,18 +164,6 @@ portfolio-website/
 ```
 
 ## 🌐 Deployment
-
-### Deploy to Vercel
-```bash
-npm install -g vercel
-vercel
-```
-
-### Deploy to Netlify
-```bash
-npm run build
-# Drag and drop the 'dist' folder to Netlify
-```
 
 ### Deploy to GitHub Pages
 ```bash
