@@ -29,40 +29,40 @@ const skills = {
 };
 
 const projects = [
+    // {
+    //     id: 1,
+    //     title: "E-Commerce Platform",
+    //     description: "Full-stack e-commerce platform with real-time inventory management, payment integration, and admin dashboard.",
+    //     techStack: ["React", "Node.js", "MongoDB", "Stripe"],
+    //     liveDemo: "https://demo-ecommerce.example.com",
+    //     github: "https://github.com/johndoe/ecommerce-platform"
+    // },
+    // {
+    //     id: 2,
+    //     title: "AI Task Manager",
+    //     description: "Smart task management app with AI-powered suggestions, priority detection, and natural language processing.",
+    //     techStack: ["Next.js", "TypeScript", "OpenAI", "PostgreSQL"],
+    //     liveDemo: "https://ai-tasks.example.com",
+    //     github: "https://github.com/johndoe/ai-task-manager"
+    // },
+    // {
+    //     id: 3,
+    //     title: "Real-Time Analytics Dashboard",
+    //     description: "Analytics platform featuring live data visualization, custom metrics, and exportable reports.",
+    //     techStack: ["React", "D3.js", "WebSocket", "Redis"],
+    //     liveDemo: "https://analytics-dash.example.com",
+    //     github: "https://github.com/johndoe/analytics-dashboard"
+    // },
+    // {
+    //     id: 4,
+    //     title: "Social Media Aggregator",
+    //     description: "Unified platform to manage multiple social media accounts with scheduled posting and analytics.",
+    //     techStack: ["Vue.js", "Python", "Django", "PostgreSQL"],
+    //     liveDemo: "https://social-hub.example.com",
+    //     github: "https://github.com/johndoe/social-aggregator"
+    // },
     {
         id: 1,
-        title: "E-Commerce Platform",
-        description: "Full-stack e-commerce platform with real-time inventory management, payment integration, and admin dashboard.",
-        techStack: ["React", "Node.js", "MongoDB", "Stripe"],
-        liveDemo: "https://demo-ecommerce.example.com",
-        github: "https://github.com/johndoe/ecommerce-platform"
-    },
-    {
-        id: 2,
-        title: "AI Task Manager",
-        description: "Smart task management app with AI-powered suggestions, priority detection, and natural language processing.",
-        techStack: ["Next.js", "TypeScript", "OpenAI", "PostgreSQL"],
-        liveDemo: "https://ai-tasks.example.com",
-        github: "https://github.com/johndoe/ai-task-manager"
-    },
-    {
-        id: 3,
-        title: "Real-Time Analytics Dashboard",
-        description: "Analytics platform featuring live data visualization, custom metrics, and exportable reports.",
-        techStack: ["React", "D3.js", "WebSocket", "Redis"],
-        liveDemo: "https://analytics-dash.example.com",
-        github: "https://github.com/johndoe/analytics-dashboard"
-    },
-    {
-        id: 4,
-        title: "Social Media Aggregator",
-        description: "Unified platform to manage multiple social media accounts with scheduled posting and analytics.",
-        techStack: ["Vue.js", "Python", "Django", "PostgreSQL"],
-        liveDemo: "https://social-hub.example.com",
-        github: "https://github.com/johndoe/social-aggregator"
-    },
-    {
-        id: 5,
         title: "Code Snippet Library",
         description: "Developer tool for storing, organizing, and sharing code snippets with syntax highlighting and search.",
         techStack: ["React", "Firebase", "Tailwind", "Prism.js"],
@@ -70,7 +70,7 @@ const projects = [
         github: "https://github.com/johndoe/code-snippets"
     },
     {
-        id: 6,
+        id: 2,
         title: "Fitness Tracker App",
         description: "Mobile-responsive fitness tracking application with workout logging, progress charts, and goal setting.",
         techStack: ["React Native", "Node.js", "MongoDB", "Chart.js"],
